@@ -17,8 +17,9 @@ You can use the provided Dockerfile to run this bot.
 `python3 ROASkinBot.py`
 
 # Bot commands:
-`!skin [RIVALNAME] [1-4]` Generate 1-4 random skins for the rival RIVALNAME
-`!skin present [RIVALNAME] [COLORCODE] [DESCRIPTION]` Generate a preview image for the rival RIVALNAME with the skin color code COLORCODE. You may add a description.
-`!skin help` Show help message.
+- `!skin [RIVALNAME] [1-4]` Generate 1-4 random skins for the rival RIVALNAME
+- `!skin present [RIVALNAME] [COLORCODE] [DESCRIPTION]` Generate a preview image for the rival RIVALNAME with the skin color code COLORCODE. You may add a description.
+- `!skin help` Show help message.
 
+## Demo
 ![](https://i.imgur.com/9uThwl1.png)
